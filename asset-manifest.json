@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/ucsb-cs185-pr3/static/css/main.757ee65e.chunk.css",
+    "main.js": "/ucsb-cs185-pr3/static/js/main.bf0cd0e8.chunk.js",
+    "main.js.map": "/ucsb-cs185-pr3/static/js/main.bf0cd0e8.chunk.js.map",
+    "runtime-main.js": "/ucsb-cs185-pr3/static/js/runtime-main.1479aa39.js",
+    "runtime-main.js.map": "/ucsb-cs185-pr3/static/js/runtime-main.1479aa39.js.map",
+    "static/js/2.31d9fe4f.chunk.js": "/ucsb-cs185-pr3/static/js/2.31d9fe4f.chunk.js",
+    "static/js/2.31d9fe4f.chunk.js.map": "/ucsb-cs185-pr3/static/js/2.31d9fe4f.chunk.js.map",
+    "static/js/3.1c083ae5.chunk.js": "/ucsb-cs185-pr3/static/js/3.1c083ae5.chunk.js",
+    "static/js/3.1c083ae5.chunk.js.map": "/ucsb-cs185-pr3/static/js/3.1c083ae5.chunk.js.map",
+    "index.html": "/ucsb-cs185-pr3/index.html",
+    "static/css/main.757ee65e.chunk.css.map": "/ucsb-cs185-pr3/static/css/main.757ee65e.chunk.css.map",
+    "static/js/2.31d9fe4f.chunk.js.LICENSE.txt": "/ucsb-cs185-pr3/static/js/2.31d9fe4f.chunk.js.LICENSE.txt",
+    "static/media/i1.2f935326.png": "/ucsb-cs185-pr3/static/media/i1.2f935326.png",
+    "static/media/i2.2e5a14f2.JPG": "/ucsb-cs185-pr3/static/media/i2.2e5a14f2.JPG",
+    "static/media/i3.9e0e4216.JPG": "/ucsb-cs185-pr3/static/media/i3.9e0e4216.JPG",
+    "static/media/i4.fd4ba0e3.JPG": "/ucsb-cs185-pr3/static/media/i4.fd4ba0e3.JPG",
+    "static/media/i5.b88df5f0.JPG": "/ucsb-cs185-pr3/static/media/i5.b88df5f0.JPG",
+    "static/media/i6.79bfc4a5.JPG": "/ucsb-cs185-pr3/static/media/i6.79bfc4a5.JPG",
+    "static/media/i7.598484dc.JPG": "/ucsb-cs185-pr3/static/media/i7.598484dc.JPG",
+    "static/media/i8.c4dca956.JPG": "/ucsb-cs185-pr3/static/media/i8.c4dca956.JPG",
+    "static/media/i9.13f433d4.JPG": "/ucsb-cs185-pr3/static/media/i9.13f433d4.JPG",
+    "static/media/logo.6ce24c58.svg": "/ucsb-cs185-pr3/static/media/logo.6ce24c58.svg",
+    "static/media/v1.7eb852e6.mp4": "/ucsb-cs185-pr3/static/media/v1.7eb852e6.mp4",
+    "static/media/v2.a01b8320.mp4": "/ucsb-cs185-pr3/static/media/v2.a01b8320.mp4",
+    "static/media/v3.a719fba4.mp4": "/ucsb-cs185-pr3/static/media/v3.a719fba4.mp4",
+    "static/media/v4.b857225d.mp4": "/ucsb-cs185-pr3/static/media/v4.b857225d.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1479aa39.js",
+    "static/js/2.31d9fe4f.chunk.js",
+    "static/css/main.757ee65e.chunk.css",
+    "static/js/main.bf0cd0e8.chunk.js"
+  ]
+}
